@@ -12,7 +12,7 @@
 <img src="images/Project2.png?raw=true"/>
 
 ---
-[Current: Proteasomal degradation](http://example.com/)
+[Current: Proteasomal degradation](/sample_page3/)
 <img src="images/Project3.png?raw=true"/>
 
 ---
