@@ -1,7 +1,6 @@
 ## Methylation patterns in Alzheimer disease
 
-Abstract
-Introduction: Late-onset Alzheimer disease (LOAD) is the most common dementia worldwide. APOE4 and BIN1 (Bridging Integrator 1) have been implicated in the pathogenesis of this disease, but, although DNA methylation of dinucleotide CpGs in the BIN1 gene influences alterations, it has not been studied in Hispanics.
+As master degree project I focused on the epigenetics in Late-onset Alzheimer disease (LOAD) which is the most common dementia worldwide. APOE4 and BIN1 (Bridging Integrator 1) have been implicated in the pathogenesis of this disease, but, although DNA methylation of dinucleotide CpGs in the BIN1 gene influences alterations, it has not been studied in Hispanics.
 
 Objective: The objective of this study was to evaluate the BIN1 3' intergenic region DNA methylation patterns in a Colombian sample of LOAD patients.
 
