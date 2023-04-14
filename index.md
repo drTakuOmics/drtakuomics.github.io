@@ -9,7 +9,7 @@
 
 ---
 [Transcriptomic analysis in periparturient dairy cows](/pdf/sample_presentation.pdf)
-<img src="images/Project2.jpg?raw=true"/>
+<img src="images/Project2.png?raw=true"/>
 
 ---
 [Current: Proteasomal degradation](http://example.com/)
