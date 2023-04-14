@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Research Contributions 
 
-[Project 1 Title](/sample_page)
+[Transcriptome of adipose tissues from gestational diabetes patients 1](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
