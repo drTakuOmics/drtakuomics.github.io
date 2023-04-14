@@ -14,8 +14,5 @@ The results revealed a total of 3,178 DEGs in subcutaneous adipose tissue and 1,
 
 The study's findings provide insights into the molecular mechanisms underlying adipose tissue inflammation, remodeling, and lipid metabolism during the periparturient period in dairy cows. Understanding these mechanisms can help develop strategies to improve the health and productivity of dairy cows during this critical phase.
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [BMC publication](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07235-0).
