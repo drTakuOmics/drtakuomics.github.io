@@ -19,8 +19,8 @@
 
 ### Previuos projects
 
-- [CpG methylation in Alzheimer patients from Colombia](http://example.com/)
-- [Inmunogenetics in Cnidarians](http://example.com/)
+- [CpG methylation in Alzheimer patients from Colombia](/sample_page4)
+- [Inmunogenetics in Cnidarians](/sample_page5)
 
 
 ---
