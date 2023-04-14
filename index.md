@@ -8,8 +8,8 @@
 <img src="images/Project1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Transcriptomic analysis in periparturient dairy cows](/pdf/sample_presentation.pdf)
+<img src="images/Project2.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
