@@ -13,7 +13,7 @@
 
 ---
 [Current: Proteasomal degradation](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project3.png?raw=true"/>
 
 ---
 
