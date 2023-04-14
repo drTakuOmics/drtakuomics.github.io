@@ -8,7 +8,7 @@
 <img src="images/Project1.png?raw=true"/>
 
 ---
-[Transcriptomic analysis in periparturient dairy cows](/pdf/sample_presentation.pdf)
+[Transcriptomic analysis in periparturient dairy cows](/sample_page2)
 <img src="images/Project2.png?raw=true"/>
 
 ---
