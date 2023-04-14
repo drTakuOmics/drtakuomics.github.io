@@ -4,7 +4,7 @@
 
 ### Research Contributions 
 
-[Transcriptome of adipose tissues from gestational diabetes patients 1](/sample_page)
+[Transcriptome of adipose tissues from gestational diabetes patients](/sample_page)
 <img src="images/Project1.png?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/Project2.jpg?raw=true"/>
 
 ---
-[Degradation](http://example.com/)
+[Current: Proteasomal degradation](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
