@@ -5,7 +5,7 @@
 ### Research Contributions 
 
 [Transcriptome of adipose tissues from gestational diabetes patients 1](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Project1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
