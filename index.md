@@ -17,7 +17,7 @@
 
 ---
 
-### Previuos projects
+### Previous projects
 
 - [CpG methylation in Alzheimer patients from Colombia](/sample_page4)
 - [Inmunogenetics in Cnidarians](/sample_page5)
