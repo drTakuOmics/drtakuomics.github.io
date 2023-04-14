@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Previuos projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [CpG methylation in Alzheimer patients from Colombia](http://example.com/)
+- [Inmunogenetics in Cnidarians](http://example.com/)
+
 
 ---
 
