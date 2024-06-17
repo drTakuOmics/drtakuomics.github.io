@@ -1,4 +1,4 @@
-##Biology of Proteasome Activator PA28y, implications as potential therapheutic target
+## Biology of Proteasome Activator PA28y, implications as potential therapheutic target
 
 **Project description:** This study focused on generating a transcriptome dataset of omental and subcutaneous adipose tissues collected from patients with gestational diabetes mellitus (GDM) and control subjects. Gestational diabetes is a form of diabetes that occurs during pregnancy and can lead to various health complications for both the mother and the baby. Adipose tissue plays a significant role in the development and progression of GDM due to its involvement in insulin resistance, inflammation, and metabolic dysregulation..
 
