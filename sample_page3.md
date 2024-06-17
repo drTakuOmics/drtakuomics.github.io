@@ -1,13 +1,13 @@
 ## Proteasomal hyperactivation as therapeutic target for proteinopathies
 
-**Project description:** We determined the effects of 20S proteasome hyperactivation on proteostasis and lipid metabolism in _C. elegans_.Methods:RNA-seq and proteomics (TMT-MS) were performed to analyze changes in the proteome and transcriptome. We validated lipid metabolism through biochemical assays and monitored stress resistance using oxidative stress tests.
+**Project description:** Proteasome Hyperactivation in _C. elegans_
+We designed a _C. elegans_ model to investigate the effects of 20S proteasome hyperactivation, specifically through the gate-opening mechanism. The focus is on how this hyperactivation targets intrinsically disordered proteins, influencing various cellular processes.
 
-**Brief Summary of Results:**
-Hyperactivation of the 20S proteasome led to significant rewiring of the proteome and transcriptome. Enhanced oxidative stress defense mechanisms were observed, alongside accelerated lipid metabolism and increased peroxisome proliferation. Improved ER-associated degradation (ERAD) of aggregation-prone proteins, such as alpha-1 antitrypsin (ATZ) was detected. Unique longevity effects independent of known pathways were identified suggesting novel therapeutic implications for proteostasis-related disorders.
+**Brief Summary of Results:** Hyperactivation of the 20S proteasome resulted in enhanced protein synthesis, extensive proteomic and transcriptomic rewiring, improved oxidative stress defenses, accelerated lipid metabolism, and increased peroxisome proliferation. It also facilitated the ER-associated degradation of proteins prone to aggregation such as ATZ linked to Alpha- antitrypsin deficiency a rare genetic disorder that affects lungs and liver.
 
-**Brief Conclusion:**
-The study demonstrates the potential of 20S proteasome activation as a therapeutic strategy to enhance cellular health and longevity. These findings underscore the complexity of proteasome-mediated cellular processes and highlight avenues for future research in proteostasis and aging mechanisms.
+**Brief Conclusion:** 
+Our study highlights a novel role for 20S proteasome hyperactivation in improving proteostasis and lipid metabolism, which may contribute to the longevity and stress resistance observed in the mutant _C. elegans_. These findings suggest potential therapeutic applications for proteasome activation in addressing proteostasis-related disorders.
 
-For more details see our [Pre-print](https://www.biorxiv.org/content/10.1101/2024.04.04.588128v1.full).
+For more detailed insights, you can access the full study in the [Pre-print](https://www.biorxiv.org/content/10.1101/2024.04.04.588128v1.full).
 
 [David Smith Lab at WVU](https://medicine.hsc.wvu.edu/biochemistry/research-labs/david-m-smith/).
