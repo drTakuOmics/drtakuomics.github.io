@@ -1,15 +1,6 @@
 ## Biology of Proteasome Activator PA28y, implications as potential therapheutic target
 
-**Project description:** This study focused on generating a transcriptome dataset of omental and subcutaneous adipose tissues collected from patients with gestational diabetes mellitus (GDM) and control subjects. Gestational diabetes is a form of diabetes that occurs during pregnancy and can lead to various health complications for both the mother and the baby. Adipose tissue plays a significant role in the development and progression of GDM due to its involvement in insulin resistance, inflammation, and metabolic dysregulation..
+**Project description:** 
+Our current efforts focus on understanding the physiological role of the proteasome activator PA28, recognized for its involvement in ubiquitin-independent protein degradation pathways that are linked to immune response, neurodegeneration and other proteinopathies. Notably, PA28 also exhibits increased expression under cold stress, highlighting its role in adaptation to environmental changes. This project aims to identify substrates of the PA28/20S complex to better comprehend the network of processes that this activator from the 11S family influences, thereby deepening our understanding of its functional roles in cellular health.
 
-### 1. Approach
-
-Omental and subcutaneous adipose tissue samples were collected from 32 pregnant women, including 16 GDM patients and 16 matched control subjects. They performed RNA sequencing on the samples and generated a comprehensive transcriptome dataset for both types of adipose tissues in GDM patients and control subjects.
-
-### 2. Brief summary of results
-
-The dataset provided in the study contains raw sequencing data, gene expression data, and metadata. These data can be used to identify differentially expressed genes (DEGs) and pathways associated with GDM, offering valuable insights into the molecular mechanisms underlying the pathogenesis of GDM in adipose tissues. Additionally, the dataset can be utilized in comparative studies, gene co-expression network analysis, and the identification of potential therapeutic targets for GDM.
-
-### 3. Brief conclusion
-
-This transcriptome dataset of omental and subcutaneous adipose tissues in gestational diabetes patients represents a valuable resource for researchers studying the molecular basis of GDM and may contribute to the development of new diagnostic and therapeutic approaches for the disease.
+If you're curious about how the 20S proteasome is regulated by the 11S/PA28 family and its implications for cellular health and disease, our latest review offers an in-depth exploration of these crucial mechanisms. We delve into their structure, function, and evolutionary significance in maintaining proteostasis. For a detailed understanding and to stay on the cutting edge of proteasome research, check out our comprehensive review available
