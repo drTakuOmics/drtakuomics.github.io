@@ -13,7 +13,7 @@
 
 ---
 [Proteasomal hyperactivation as therapeutic target for proteinopathies](/sample_page3)
-<img src="images/Project3.png?raw=true"/>
+<img src="images/opengate.png?raw=true"/>
 
 ---
 
