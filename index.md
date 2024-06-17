@@ -9,7 +9,7 @@
 
 ---
 [Biology of Proteasome Activator PA28y, implications as potential therapheutic target](/sample_page7)
-<img src="images/Project2.png?raw=true"/>
+<img src="images/pa28-page.png?raw=true"/>
 
 ---
 [Proteasomal hyperactivation as therapeutic target for proteinopathies](/sample_page3)
