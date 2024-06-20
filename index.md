@@ -8,11 +8,11 @@
 <img src="images/proend-page.png?raw=true"/>
 
 ---
-[Biology of Proteasome Activator PA28y, implications as potential therapheutic target](/Hyperactive-Celegans-Project)
+[Biology of Proteasome Activator PA28y, implications as potential therapheutic target](/)
 <img src="images/pa28-page.png?raw=true"/>
 
 ---
-[Proteasomal hyperactivation as therapeutic target for proteinopathies](/sample_page3)
+[Proteasomal hyperactivation as therapeutic target for proteinopathies](/Hyperactive-Celegans-Project)
 <img src="images/opengate.png?raw=true"/>
 
 ---
