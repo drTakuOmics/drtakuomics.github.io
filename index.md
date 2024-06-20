@@ -8,7 +8,7 @@
 <img src="images/proend-page.png?raw=true"/>
 
 ---
-[Biology of Proteasome Activator PA28y, implications as potential therapheutic target](/)
+[Biology of Proteasome Activator PA28y, implications as potential therapheutic target](/PA28-Project)
 <img src="images/pa28-page.png?raw=true"/>
 
 ---
