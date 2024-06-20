@@ -18,7 +18,7 @@
 ---
 
 ### Research Contributions
-- [Transcriptome of adipose tissues from gestational diabetes patients](/sample_page)
+- [Transcriptome of adipose tissues from gestational diabetes patients](/RNAseq-BosTaurus)
 - [Transcriptomic analysis in periparturient dairy cows](/sample_page2)
 - [CpG methylation in Alzheimer patients from Colombia](/sample_page4)
 - [Inmunogenetics in Cnidarians](/sample_page5)
