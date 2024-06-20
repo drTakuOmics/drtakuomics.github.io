@@ -4,7 +4,7 @@
 
 ### Current Research
 
-[ProEnd a database for potential proteasomal interactors across the kingdoms of life](/sample_page6)
+[ProEnd a database for potential proteasomal interactors across the kingdoms of life](/ProEnd-Project)
 <img src="images/proend-page.png?raw=true"/>
 
 ---
