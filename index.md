@@ -21,7 +21,7 @@
 - [Transcriptome of adipose tissues from gestational diabetes patients](/RNAseq-Gestationa-diabetes)
 - [Transcriptomic analysis in periparturient dairy cows](/RNAseq-BosTaurus)
 - [CpG methylation in Alzheimer patients from Colombia](/Alzheimer-Methylation-in-Colombia)
-- [Inmunogenetics in Cnidarians](/sample_page5)
+- [Inmunogenetics in Cnidarians](/Cnidarian-Immunogenetics)
 
 
 ---
