@@ -15,6 +15,6 @@ Constitutive 20S gate opening defines a potent, IDP-targeted proteostasis pathwa
 
 **For more detailed insights, you can access the full study in:**
 - Published article: Science Advances (issue 10, 2025) [Sci.adv-link](https://www.science.org/doi/10.1126/sciadv.adx3014)   
-- Pubmed: [link]((https://pmc.ncbi.nlm.nih.gov/articles/PMC12513426/)) 
+- Pubmed: [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12513426/) 
 
 [David Smith Lab at WVU](https://medicine.hsc.wvu.edu/biochemistry/research-labs/david-m-smith/).
