@@ -3,11 +3,18 @@
 **Project description:** Proteasome Hyperactivation in _C. elegans_
 We designed a _C. elegans_ model to investigate the effects of 20S proteasome hyperactivation, specifically through the gate-opening mechanism. The focus is on how this hyperactivation targets intrinsically disordered proteins, influencing various cellular processes.
 
-**Brief Summary of Results:** Hyperactivation of the 20S proteasome resulted in enhanced protein synthesis, extensive proteomic and transcriptomic rewiring, improved oxidative stress defenses, accelerated lipid metabolism, and increased peroxisome proliferation. It also facilitated the ER-associated degradation of proteins prone to aggregation such as ATZ linked to Alpha- antitrypsin deficiency a rare genetic disorder that affects lungs and liver.
+**Key findings**
+- **Selective IDP clearance & faster turnover:** Hyperactivation accelerates degradation of intrinsically disordered/misfolded proteins and increases global protein turnover (synthesis + degradation).
+- **Oxidative stress resilience:** Markedly reduces oxidative damage and boosts survival under H₂O₂, t-BuOOH, and juglone. Protection persists even when most SODs are absent (quad-sod background).
+- **Enhanced ERAD:** Post-translational depletion of endogenous vitellogenins (ApoB homologs) and more efficient clearance of pathogenic human ATZ in the intestine; effects depend on the canonical Cdc48/p97 ERAD machinery.
+- **UPR-independent benefits:** Increased ER stress resistance and lifespan extension occur **without** requiring xbp-1–mediated UPR (BiP/hsp-4).  
+- **Systems-level rewiring:** Coordinated proteomic/transcriptomic changes highlight broad remodeling of protein quality control and translation programs.
 
 **Brief Conclusion:** 
-Our study highlights a novel role for 20S proteasome hyperactivation in improving proteostasis and lipid metabolism, which may contribute to the longevity and stress resistance observed in the mutant _C. elegans_. These findings suggest potential therapeutic applications for proteasome activation in addressing proteostasis-related disorders.
+Constitutive 20S gate opening defines a potent, IDP-targeted proteostasis pathway that mitigates oxidative and ER proteotoxic stress, extends lifespan, and suggests a therapeutic angle for neurodegenerative diseases and α1-antitrypsin deficiency.
 
-For more detailed insights, you can access the full study in the [Pre-print](https://www.biorxiv.org/content/10.1101/2024.04.04.588128v1.full).
+**For more detailed insights, you can access the full study in:**
+- Published article: Science Advances (issue 10, 2025) [Sci.adv-link](https://www.science.org/doi/10.1126/sciadv.adx3014)   
+- Pubmed: [link]((https://pmc.ncbi.nlm.nih.gov/articles/PMC12513426/)) 
 
 [David Smith Lab at WVU](https://medicine.hsc.wvu.edu/biochemistry/research-labs/david-m-smith/).
