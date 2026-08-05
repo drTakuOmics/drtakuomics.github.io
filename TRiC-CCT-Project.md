@@ -13,6 +13,7 @@ and multi-omics analysis, we identified a mechanistic connection between TRiC-de
 - **Misfolded-substrate competition:** A persistently unfolded Gβ1 mutant accumulated on TRiC and displaced other clients, demonstrating that substrate overload can sequester the chaperonin, amplify proteostasis imbalance, and promote photoreceptor degeneration.
 
 **Conclusion**
+
 TRiC/CCT is essential not only for folding structural and signaling proteins in rod photoreceptors, but also for maintaining cellular energy metabolism. 
 Chaperonin inhibition or sequestration by an unfolded substrate produces a combined collapse of cytoskeletal integrity, phototransduction, and bioenergetics, providing a mechanistic framework for understanding how proteostasis failure contributes to retinal neurodegeneration.
 
