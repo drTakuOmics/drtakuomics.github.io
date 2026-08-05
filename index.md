@@ -13,7 +13,7 @@
 
 ---
 [Proteasomal hyperactivation as therapeutic target for proteinopathies](/Hyperactive-Celegans-Project)
-<img src="images/opengate.png?raw=true"/>
+<img src="images/Open_Gate_Summary.png?raw=true"/>
 
 ---
 
