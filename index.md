@@ -9,11 +9,11 @@
 
 ---
 [ProEnd a database for potential proteasomal interactors across the kingdoms of life](/ProEnd-Project)
-<img src="images/proend-page.png?raw=true"/>
+<img src="images/ProEnd-Summary.png?raw=true"/>
 
 ---
-[TRiC-CCT interactome in photoreceptors](/PA28-Project)
-<img src="images/pa28-page.png?raw=true"/>
+[TRiC-CCT interactome in photoreceptors](/TRiC-CCT-Project.md)
+<img src="images/TRICC_GPT_Summary.png?raw=true"/>
 
 ---
 
