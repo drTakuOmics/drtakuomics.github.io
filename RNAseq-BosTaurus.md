@@ -1,18 +1,11 @@
-## Transcriptomic analysis in diary Cows
+## Adipose transcriptomics during the transition to lactation
 
-**Project description:** This study aimed to investigate the transcriptomic changes in adipose tissue during the periparturient period in dairy cows, which is a crucial phase encompassing the time before and after calving. The periparturient period is characterized by significant physiological and metabolic changes that can affect the health and productivity of dairy cows. Adipose tissue plays a central role in energy homeostasis and lipid metabolism during this period.
+**Research question:** How does subcutaneous adipose tissue adapt to calving and the onset of lactation?
 
-### 1. Approach
+**Approach:** This longitudinal study sampled subcutaneous adipose tissue from 12 Holstein cows at 11 ± 3.6 days before calving, 6 ± 1 days postpartum, and 13 ± 1.4 days postpartum (mean ± SD). RNA-seq was combined with differential-expression and functional-enrichment analyses.
 
-The researchers collected subcutaneous and omental adipose tissue samples from 14 multiparous Holstein cows at three different time points: prepartum (−30 days relative to parturition), at parturition (calving), and postpartum (+30 days relative to parturition). RNA-seq was performed  and  we identified differentially expressed genes (DEGs) and gene ontology (GO) terms related to inflammation, remodeling, and lipid metabolism in the adipose tissue.
+**Key findings:** Compared with the prepartum samples, 1,946 genes were differentially expressed at the first postpartum time point and 1,524 at the second. The changes connect lipid metabolism with inflammation, extracellular-matrix remodeling, and redox signaling.
 
-### 2. Brief summary of results
+**Interpretation:** The study maps coordinated adipose adaptation during early lactation. Enrichment and upstream-regulator predictions identify candidate mechanisms rather than proving each regulatory relationship.
 
-The results revealed a total of 3,178 DEGs in subcutaneous adipose tissue and 1,589 DEGs in omental adipose tissue across the three time points. GO analysis showed that genes related to immune system processes, cell motility, and extracellular matrix organization were significantly enriched during the periparturient period. Additionally, genes associated with lipid metabolism and lipid droplet formation were differentially expressed during this period, suggesting an adaptation in lipid metabolism.
-
-### 3. Brief conclusion
-
-The study's findings provide insights into the molecular mechanisms underlying adipose tissue inflammation, remodeling, and lipid metabolism during the periparturient period in dairy cows. Understanding these mechanisms can help develop strategies to improve the health and productivity of dairy cows during this critical phase.
-
-
-For more details see [BMC publication](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07235-0).
+[Read the BMC Genomics paper (2020)](https://doi.org/10.1186/s12864-020-07235-0) · [RNA-seq data: GSE159224](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159224)
