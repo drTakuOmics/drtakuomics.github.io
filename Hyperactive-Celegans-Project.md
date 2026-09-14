@@ -13,6 +13,10 @@ We designed a _C. elegans_ model to investigate the effects of 20S proteasome hy
 **Brief Conclusion:** 
 Constitutive 20S gate opening defines a potent, IDP-targeted proteostasis pathway that mitigates oxidative and ER proteotoxic stress, extends lifespan, and suggests a therapeutic angle for neurodegenerative diseases and α1-antitrypsin deficiency.
 
+<a href="/una-puerta-a-la-degradacion.html" target="_blank" rel="noopener">
+  Explorar el resumen interactivo en español →
+</a>
+
 **For more detailed insights, you can access the full study in:**
 - Published article: Science Advances (issue 10, 2025) [Sci.adv-link](https://www.science.org/doi/10.1126/sciadv.adx3014)   
 - Pubmed: [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12513426/) 
