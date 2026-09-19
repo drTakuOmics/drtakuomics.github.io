@@ -26,7 +26,9 @@
 
 
 ---
+### Teaching
 
+[RNA-seq 101 — interactive tutorial](/rnaseq-101.html)
 
 
 
